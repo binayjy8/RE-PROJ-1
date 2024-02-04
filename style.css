@@ -1,0 +1,18 @@
+* {
+    font-family: 'Courier New';
+}
+
+
+h1,
+h3 {
+    color: #b92b27;
+}
+
+#login {
+    background-color: blanchedalmond;
+}
+
+#signup {
+    background-color: #b92b27;
+    color: #fff;
+}
