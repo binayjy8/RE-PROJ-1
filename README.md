@@ -1,1 +1,1 @@
-# RE-PROJ-1 is abou
+# RE-PROJ-1 is about
