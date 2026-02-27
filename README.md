@@ -1,1 +1,1 @@
-# RE-PROJ-1 is about the push
+# RE-PROJ-1 is about the pus
