@@ -1,1 +1,1 @@
-# RE-PROJ-1 is about the pusi
+# RE-PROJ-1 is about the pushi
